@@ -1,7 +1,7 @@
 
 ### 🌸 Hi there welcome to my github!
 
-[![Discord](https://discord.c99.nl/widget/theme-1/552492140270452736.png)](https://discord.com/users/552492140270452736)
+[![Discord](https://discord.c99.nl/widget/theme-1/698083725895794748.png)](https://discord.com/users/698083725895794748)
 
 ![Todoroki](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfQiT7EQ48IWp2apDrTjbiiFENDDD9VXisXA&usqp=CAU)
 
