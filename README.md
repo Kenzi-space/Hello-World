@@ -5,10 +5,10 @@
 
 ![Todoroki](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfQiT7EQ48IWp2apDrTjbiiFENDDD9VXisXA&usqp=CAU)
 
-### 🌸 My name is **Jovantri** 
+### 🌸 My name is **Kenzi** 
 > Here Some QnA
 - 🔭 I’m currently working on todoroki shouto developer bot discord
-- 🌱 I’m currently learning English and Russian Language
+- 🌱 I’m currently learning English and Indonesian Language
 - 🤔 I’m looking for help with my friend
 - 💬 Ask me about my bot lol
 - 📫 How to reach me : just studying 
